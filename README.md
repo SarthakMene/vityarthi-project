@@ -15,3 +15,7 @@ The college management admin can log in using their credentials. They can view b
 
 **TECHNOLOGIES AND TOOLS USED**
 It consist of a programming language called python and its libraries.
+
+**Steps to Install and Run**
+To execute this project, ensure that Python is installed on your system. First, copy the provided source code and save it as a Python file (e.g., new.py) in a known directory. Open your system's Command Prompt (Windows) or Terminal (macOS/Linux) and navigate to the folder where you saved the file using the cd command.
+
